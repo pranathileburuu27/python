@@ -1,0 +1,4 @@
+arr=[12,3,34,456,566]
+arr.sort()
+second_largest=arr[-2]
+print("second_largest",second_largest)
