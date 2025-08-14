@@ -1,0 +1,6 @@
+arr=[1,23,4,5,678]
+max_num=arr[0]
+for num in arr:
+    if num>max_num:
+        max_num=num
+print("maximum number:",max_num)
